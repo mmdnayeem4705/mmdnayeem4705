@@ -29,6 +29,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mulla-mohammed-nayeem-09b33a361/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mulla-mohammed-nayeem" height="30" width="40" />
+</a>
+
 <a href="https://twitter.com/@m_md_nayeem1314" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@m_md_nayeem1314" height="30" width="40" /></a>
 <a href="https://kaggle.com/mullamohammednayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="mullamohammednayeem" height="30" width="40" /></a>
 <a href="https://instagram.com/m_md_nayeem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="m_md_nayeem" height="30" width="40" /></a>
