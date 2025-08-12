@@ -25,7 +25,7 @@
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1PrasrSekMe2_Icvw6tuyyKw5AQHBD6h7](https://drive.google.com/drive/u/0/folders/1PrasrSekMe2_Icvw6tuyyKw5AQHBD6h7)
 
-- ⚡ Fun fact **I can debug code faster than I can decide what to eat 🍕**
+- ⚡ Fun fact **I can debug code faster than I can decide what to eat 🍕 and bhai loog feel free to ask anything to me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
