@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **React, Vue, GSAP, Blockchain DApps, Flask + OpenCV AI projects, Java Full-Stack Development**
 
-- 📫 How to reach me **📧 Email: mmdnayeem4705@gmail.com**
+- 📫 How to reach me **📧 Email: mmdnayeem4705@gmail.com , mulla@gitam.in , mmdnayeem1314@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/drive/u/0/folders/1PrasrSekMe2_Icvw6tuyyKw5AQHBD6h7](https://drive.google.com/drive/u/0/folders/1PrasrSekMe2_Icvw6tuyyKw5AQHBD6h7)
 
