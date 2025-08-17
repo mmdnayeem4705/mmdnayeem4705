@@ -56,6 +56,3 @@
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/mmdnayeem4705/mmdnayeem4705/output/github-snake.svg" alt="Snake animation" />
 </p>
-# 🐍 My GitHub Contribution Snake
-
-![snake animation](https://raw.githubusercontent.com/mmdnayeem4705/mmdnayeem4705/output/snake.svg)
