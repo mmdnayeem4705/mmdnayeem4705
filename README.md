@@ -40,7 +40,9 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<!-- your languages & tools section remains same -->
+<p align="left"> 
+<!-- your languages and tools icons remain same -->
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmdnayeem4705&show_icons=true&locale=en&layout=compact" alt="mmdnayeem4705" /></p>
 
@@ -48,7 +50,9 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmdnayeem4705&" alt="mmdnayeem4705" /></p>
 
-<!-- 🎮 Snake Game Section -->
+---
+
+<h3 align="center">🐍 My GitHub Contribution Snake</h3>
 <p align="center"> 
   <img src="https://raw.githubusercontent.com/mmdnayeem4705/mmdnayeem4705/output/github-snake.svg" alt="Snake animation" />
 </p>
