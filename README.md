@@ -87,8 +87,3 @@ Quick to adapt, eager to learn new technologies, and focused on delivering user-
 </p>
 
 ---
-
-<h3 align="center">🐍 My GitHub Contribution Snake</h3>
-<p align="center"> 
-  <img src="https://raw.githubusercontent.com/mmdnayeem4705/mmdnayeem4705/output/github-snake.svg" alt="Snake animation" />
-</p>
