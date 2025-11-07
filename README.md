@@ -32,7 +32,7 @@ Quick to adapt, eager to learn new technologies, and focused on delivering user-
 - 🤝 I’m looking for help with [Drowsiness_Detection](https://github.com/mmdnayeem4705/Drowsiness_Detection)  
 - 👨‍💻 All of my projects are available at [Portfolio](https://portfolio-tau-lake-16.vercel.app/)  
 - 📝 I occasionally write articles (can integrate Medium/Hashnode later)  
-- 💬 Ask me about **React, Vue, GSAP, Blockchain DApps, Flask + OpenCV AI, Java Full-Stack**  
+- 💬 Ask me about **React, Blockchain, Flask + OpenCV AI, Java Full-Stack**  
 - 📫 Reach me: **mmdnayeem4705@gmail.com | mulla@gitam.in | mmdnayeem1314@gmail.com**  
 - 📄 Know about my experiences [Resume/Drive](https://drive.google.com/drive/u/0/folders/1PrasrSekMe2_Icvw6tuyyKw5AQHBD6h7)  
 - ⚡ Fun fact: **I debug faster than I decide what to eat 🍕**  
