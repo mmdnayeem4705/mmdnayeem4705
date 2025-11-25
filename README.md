@@ -65,25 +65,3 @@ Quick to adapt, eager to learn new technologies, and focused on delivering user-
 </p>
 
 ---
-
-### ⚒️ Languages and Tools
-<p align="left"> 
-<!-- Add your tech stack badges/logos here if needed -->
-</p>
-
----
-
-### 📊 GitHub Stats
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mmdnayeem4705&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mmdnayeem4705&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mmdnayeem4705&" alt="GitHub Streak" />
-</p>
-
----
