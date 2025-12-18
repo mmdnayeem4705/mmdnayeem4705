@@ -35,7 +35,7 @@ Quick to adapt, eager to learn new technologies, and focused on delivering user-
 - 💬 Ask me about **React, Blockchain, Flask + OpenCV AI, Java Full-Stack**  
 - 📫 Reach me: **mmdnayeem4705@gmail.com | mulla@gitam.in | mmdnayeem1314@gmail.com**  
 - 📄 Know about my experiences [Resume/Drive](https://drive.google.com/drive/u/0/folders/1PrasrSekMe2_Icvw6tuyyKw5AQHBD6h7)  
-- ⚡ Fun fact: **I debug faster than I decide what to eat 🍕**  
+- ⚡ Fun fact: **I debug faster than I decide what to eat 🍕 snacks **  
 
 ---
 
