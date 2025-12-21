@@ -1,4 +1,4 @@
-<h1 align="center">Hello Everyone👋, I'm Mohammed Nayeem</h1>
+<h1 align="center">Hello Everyone👋, I'm Mulla Mohammed Nayeem</h1>
 <h3 align="center">
 A passionate JAVA Full frontend developer and Computer Science Engineering student passionate about building real-world web and AI solutions. 
 Experienced in developing scalable applications like job portals, e-commerce sites, blockchain-based medical apps, and inventory automation systems. 
