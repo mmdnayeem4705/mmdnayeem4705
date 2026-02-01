@@ -1,0 +1,69 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Snake — Play</title>
+<style>
+  body{background:#0b1220;color:#e6eef8;font-family:Inter,Segoe UI,Arial;display:flex;align-items:center;justify-content:center;min-height:100vh;margin:0}
+  .wrap{text-align:center}
+  canvas{background:#061323;border-radius:8px;display:block;margin:0 auto}
+  .muted{color:#94a3b8}
+  button{margin-top:1rem;background:#06b6d4;border:0;padding:.6rem 1rem;border-radius:8px;color:#062024;font-weight:700}
+</style>
+</head>
+<body>
+<div class="wrap">
+  <h1>🐍 Snake</h1>
+  <div class="muted">Use arrow keys to move. Eat food to grow.</div>
+  <canvas id="game" width="400" height="400"></canvas>
+  <div>
+    <button id="start">Start / Restart</button>
+  </div>
+  <p style="margin-top:1rem"><a class="muted" href="../../README.md">← Back to README</a></p>
+</div>
+<script>
+const canvas=document.getElementById('game');
+const ctx=canvas.getContext('2d');
+const size=20;const cols=canvas.width/size;const rows=canvas.height/size;
+let snake,food,dir,loop;
+
+function reset(){
+  snake=[{x:10,y:10}];
+  dir={x:1,y:0};
+  placeFood();
+}
+function placeFood(){
+  food={x:Math.floor(Math.random()*cols),y:Math.floor(Math.random()*rows)};
+}
+function draw(){
+  ctx.fillStyle='#061323';ctx.fillRect(0,0,canvas.width,canvas.height);
+  // food
+  ctx.fillStyle='#ff5f6d';ctx.fillRect(food.x*size,food.y*size,size-2,size-2);
+  // snake
+  ctx.fillStyle='#06b6d4';snake.forEach(s=>ctx.fillRect(s.x*size,s.y*size,size-2,size-2));
+}
+function tick(){
+  const head={x:snake[0].x+dir.x,y:snake[0].y+dir.y};
+  // wrap
+  head.x=(head.x+cols)%cols;head.y=(head.y+rows)%rows;
+  // collision
+  if(snake.some(s=>s.x===head.x&&s.y===head.y)){clearInterval(loop);alert('Game over!');return}
+  snake.unshift(head);
+  if(head.x===food.x && head.y===food.y){placeFood();}else{snake.pop();}
+  draw();
+}
+window.addEventListener('keydown',e=>{
+  if(e.key.includes('Arrow')){
+    if(e.key==='ArrowUp' && dir.y===0)dir={x:0,y:-1};
+    if(e.key==='ArrowDown' && dir.y===0)dir={x:0,y:1};
+    if(e.key==='ArrowLeft' && dir.x===0)dir={x:-1,y:0};
+    if(e.key==='ArrowRight' && dir.x===0)dir={x:1,y:0};
+  }
+});
+
+document.getElementById('start').addEventListener('click',()=>{clearInterval(loop);reset();loop=setInterval(tick,100);});
+reset();draw();
+</script>
+</body>
+</html>

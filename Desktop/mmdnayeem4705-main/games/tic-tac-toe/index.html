@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>Tic Tac Toe — Play</title>
+  <style>
+    :root{--bg:#0f1724;--card:#0b1220;--accent:#06b6d4;--muted:#94a3b8}
+    body{font-family:Inter,Segoe UI,Arial;background:linear-gradient(135deg,#071021,#0b1227);color:#e6eef8;display:flex;min-height:100vh;align-items:center;justify-content:center;margin:0;padding:2rem}
+    .wrap{max-width:560px;width:100%;text-align:center}
+    h1{margin:0 0 .25rem}
+    .board{display:grid;grid-template-columns:repeat(3,1fr);gap:.5rem;margin:1rem 0}
+    .cell{background:#081023;border-radius:8px;padding:2.75rem;font-size:2rem;display:flex;align-items:center;justify-content:center;cursor:pointer;user-select:none;transition:transform .12s}
+    .cell:hover{transform:scale(1.03)}
+    .controls{display:flex;gap:.5rem;justify-content:center}
+    button{background:var(--accent);border:0;padding:.6rem 1rem;border-radius:8px;color:#062024;cursor:pointer;font-weight:600}
+    .muted{color:var(--muted);font-size:.95rem}
+    a.back{color:#9fe7ff;text-decoration:none;font-size:.9rem}
+  </style>
+</head>
+<body>
+  <div class="wrap">
+    <h1>🎮 Tic Tac Toe</h1>
+    <div class="muted">Click a square to play. First to get 3 in a row wins.</div>
+
+    <div id="status" class="muted" style="margin-top:.75rem">Player X's turn</div>
+
+    <div class="board" id="board"></div>
+
+    <div class="controls">
+      <button id="reset">Reset</button>
+      <button id="ai">Play vs AI</button>
+    </div>
+
+    <p style="margin-top:1rem"><a class="back" href="../../README.md">← Back to README</a></p>
+  </div>
+
+  <script>
+    const boardEl=document.getElementById('board');
+    const statusEl=document.getElementById('status');
+    const resetBtn=document.getElementById('reset');
+    const aiBtn=document.getElementById('ai');
+
+    let board=['','','','','','','','',''];
+    let turn='X';
+    let vsAI=false;
+
+    const wins=[[0,1,2],[3,4,5],[6,7,8],[0,3,6],[1,4,7],[2,5,8],[0,4,8],[2,4,6]];
+
+    function render(){
+      boardEl.innerHTML='';
+      board.forEach((v,i)=>{
+        const d=document.createElement('div');
+        d.className='cell';
+        d.textContent=v;
+        d.addEventListener('click',()=>play(i));
+        boardEl.appendChild(d);
+      });
+      statusEl.textContent = checkWinner() ? `${checkWinner()} wins!` : `${board.includes('') ? `Player ${turn}'s turn` : 'Draw!'}`;
+    }
+
+    function play(i){
+      if(board[i]||checkWinner())return;
+      board[i]=turn;turn=turn==='X'?'O':'X';render();
+      if(vsAI && !checkWinner() && turn==='O') setTimeout(aiMove,250);
+    }
+
+    function aiMove(){
+      // naive AI: pick random available
+      const avail=board.map((v,i)=>v===''?i: -1).filter(i=>i>=0);
+      if(avail.length===0) return;
+      const choice = avail[Math.floor(Math.random()*avail.length)];
+      play(choice);
+    }
+
+    function checkWinner(){
+      for(const [a,b,c] of wins){
+        if(board[a] && board[a]===board[b] && board[b]===board[c]) return board[a];
+      }
+      return null;
+    }
+
+    resetBtn.addEventListener('click',()=>{board=['','','','','','','','',''];turn='X';render();});
+    aiBtn.addEventListener('click',()=>{vsAI=!vsAI;aiBtn.textContent = vsAI ? 'Playing vs AI ✅' : 'Play vs AI';});
+
+    render();
+  </script>
+</body>
+</html>
