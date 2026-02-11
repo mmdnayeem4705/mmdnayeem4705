@@ -3,9 +3,11 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mmdnayeem4705&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-  <img src="https://github-profile-trophy.vercel.app/?username=mmdnayeem4705&theme=onedark&margin-w=10" alt="trophies" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mmdnayeem4705&theme=algolia&no-frame=true&row=1&column=6&margin-w=8" alt="trophies" />
+</p>
 ---
 
 ## 🧠 About Me
@@ -82,22 +84,10 @@ Decentralized healthcare appointment booking system.
 - 📧 Email: mmdnayeem4705@gmail.com
 
 ---
-
----
-
-# 🔥 If You Want EVEN MORE PROFESSIONAL Version
-
-Add Tech Icons (looks powerful):
-
-Replace tech stack section with:
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,react,spring,mysql,docker,redis,solidity,git,github" />
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Blockchain+Developer;Always+Learning+New+Things" />
 </p>
+---
 + Preparing for Product-Based Companies
 + Improving System Design Skills
 + Building Resume-Level Projects
