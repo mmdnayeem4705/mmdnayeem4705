@@ -91,7 +91,6 @@ Add Tech Icons (looks powerful):
 
 Replace tech stack section with:
 
-```markdown
 <p align="left">
   <img src="https://skillicons.dev/icons?i=java,python,react,spring,mysql,docker,redis,solidity,git,github" />
 </p>
