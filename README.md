@@ -62,16 +62,6 @@ Decentralized healthcare appointment booking system.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdnayeem4705&theme=radical" />
 </p>
 
----
-
-## 🏆 Achievements
-
-- 🧠 Built 5+ Full Stack Applications
-- ⚡ Developed Real-Time AI Detection Systems
-- 🔐 Implemented JWT Authentication & Secure APIs
-- 🔗 Worked on Blockchain Smart Contracts
-
----
 
 ## 📫 Connect With Me
 
