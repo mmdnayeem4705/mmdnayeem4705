@@ -73,8 +73,3 @@ Decentralized healthcare appointment booking system.
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Engineer;Blockchain+Developer;Always+Learning+New+Things" />
 </p>
-
-
-+ Preparing for Product-Based Companies
-+ Improving System Design Skills
-+ Building Resume-Level Projects
