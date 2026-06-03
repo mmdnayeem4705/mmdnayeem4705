@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mulla Mohammed Nayeem</h1>
 <h3 align="center">🚀 Full Stack Developer | AI Engineer | Blockchain Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mmdnayeem4705&label=Profile%20Views&color=blue&style=flat" alt="profile views" />
-</p>
-
-
-
 
 ## 📊 GitHub Stats
 
