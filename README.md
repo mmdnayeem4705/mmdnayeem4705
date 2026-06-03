@@ -6,54 +6,7 @@
 </p>
 
 
-## 🧠 About Me
 
-- 🎓 Final Year B.Tech CSE @ GITAM University, Bengaluru  
-- 💻 Strong in **Java Full Stack Development**
-- 🤖 Passionate about **AI-based Real-Time Detection Systems**
-- 🔐 Interested in **Blockchain & Web3 Applications**
-- 🚀 Targeting Product-Based & High Growth Tech Roles
-- 📈 Currently leveling up in **System Design & DSA**
-
----
-
-## ⚡ Tech Stack
-
-### 👨‍💻 Programming Languages
-`Java` `Python` `JavaScript` `SQL`
-
-### 🌐 Frontend
-`React.js` `HTML` `CSS` `Bootstrap`
-
-### 🔙 Backend
-`Spring Boot` `Flask` `Node.js`
-
-### 🗄️ Database
-`MySQL` `Firebase` `PostgreSQL`
-
-### ☁️ DevOps & Tools
-`Docker` `Git` `GitHub Actions` `Redis` `Postman`
-
-### 🔗 Blockchain
-`Solidity` `Hardhat` `Web3.js`
-
----
-
-## 🔥 Featured Projects
-
-### 🚗 AI Driver Drowsiness Detection System
-Real-time eye tracking & alert system using Flask + OpenCV.
-
-### 🛒 Nayeem Store (React E-commerce)
-Full-stack e-commerce app with Firebase authentication.
-
-### 💼 Job Application Portal
-Spring Boot + JWT based multi-role job platform.
-
-### 🏥 Blockchain Medical Appointment DApp
-Decentralized healthcare appointment booking system.
-
----
 
 ## 📊 GitHub Stats
 
