@@ -2,13 +2,6 @@
 <h3 align="center">🚀 Full Stack Developer | AI Engineer | Blockchain Enthusiast</h3>
 
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mmdnayeem4705&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mmdnayeem4705&theme=radical" />
-</p>
-
 
 ## 📫 Connect With Me
 
