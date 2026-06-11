@@ -5,23 +5,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Blockchain+Developer;Java+Spring+Boot+Developer;Building+Innovative+Projects;Always+Learning+New+Things" />
 </p>
 
----
 
-## 👨‍💻 About Me
-
-🎓 Computer Science Engineering Student
-
-💡 Passionate about Full Stack Development, Artificial Intelligence, and Blockchain Technologies
-
-🚀 Building real-world projects using Java, Spring Boot, React, Next.js, Solidity, and Python
-
-🌱 Currently learning Advanced System Design, Cloud Technologies, and Web3 Development
-
-🎯 Goal: To become a skilled Software Engineer and contribute to impactful products
-
-⚡ Fun Fact: I enjoy turning innovative ideas into scalable applications
-
----
 
 ## 🛠️ Tech Stack
 
@@ -57,23 +41,6 @@
 
 ---
 
-## 🚀 Featured Projects
-
-🔹 **Doctor Appointment Booking DApp**
-
-* Blockchain-based healthcare platform using Solidity, MetaMask, Next.js, PostgreSQL, and Prisma.
-
-🔹 **Drowsiness Detection System**
-
-* AI-powered driver safety system using Python, Flask, OpenCV, and real-time eye tracking.
-
-🔹 **SportsCenter E-Commerce Platform**
-
-* Full-stack e-commerce application built with Spring Boot, React, MySQL, JWT Authentication, and Redis.
-
-🔹 **Job Application Portal**
-
-* Naukri-inspired recruitment platform using Spring Boot, React, and MySQL.
 
 ---
 
@@ -92,8 +59,6 @@
 ## 📫 Connect With Me
 
 💼 LinkedIn: https://www.linkedin.com/in/mulla-mohammed-nayeem-09b33a361/
-
-🐙 GitHub: https://github.com/mmdnayeem4705
 
 📧 Email: [mmdnayeem4705@gmail.com](mailto:mmdnayeem4705@gmail.com)
 
