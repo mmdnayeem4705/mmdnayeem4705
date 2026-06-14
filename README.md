@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Mulla Mohammed Nayeem</h1>
-<h3 align="center">🚀 Full Stack Developer | AI Engineer | Blockchain Enthusiast</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;AI+Engineer;Blockchain+Developer;Java+Spring+Boot+Developer;Building+Innovative+Projects;Always+Learning+New+Things" />
@@ -56,14 +55,5 @@
 
 ---
 
-## 📫 Connect With Me
 
-💼 LinkedIn: https://www.linkedin.com/in/mulla-mohammed-nayeem-09b33a361/
 
-📧 Email: [mmdnayeem4705@gmail.com](mailto:mmdnayeem4705@gmail.com)
-
----
-
-<p align="center">
-⭐ "Code, Learn, Build, Repeat." ⭐
-</p>
